@@ -35,6 +35,12 @@ h1 {
     text-align: center;
 }
 
+#bug-notice {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 #controls {
     padding-left: 10px;
     padding-right: 10px;
