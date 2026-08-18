@@ -16,7 +16,7 @@ This recreation of the game has:
 This recreation of the does NOT have:
 - Any implementation of game mechanics
 - Some late game discoveries that would be too easy to stumble across if implemented
-- The original art* (some details my be missing)
+- The original art* (some details may be missing)
 
 *With an exception of the instructions panel at the bottom left
 
